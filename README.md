@@ -1,14 +1,3 @@
-# App name
+#  [ZAF example] File downloader 
 
-[brief description of the app]
-
-### The following information is displayed:
-
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+This simple ZAF app shows how to download a file from an external endpoint using the client.request method. Just click the download button and a call will be made to an example pdf and then downloaded. 
